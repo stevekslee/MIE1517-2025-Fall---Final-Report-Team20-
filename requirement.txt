@@ -1,0 +1,11 @@
+echo "torch
+transformers
+librosa
+soundfile
+numpy
+matplotlib
+tqdm
+scikit-learn
+jupyter
+ipykernel" > requirements.txt
+
