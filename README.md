@@ -20,3 +20,6 @@ project/
  ├── data/
  │    ├── GTsinger.zip
 ```
+
+## 4. Run
+Open the Final_Report_Team20.ipynb and walk through all cells to process dataset, train and test models.
