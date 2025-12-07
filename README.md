@@ -9,6 +9,7 @@ Run if you need to install required pakages.
 ```
 pip install -r requirements.txt
 ```
+For pytorch installation, please find a compatible version for your environment.
 
 ## 3. Downloading Audio Dataset
 
